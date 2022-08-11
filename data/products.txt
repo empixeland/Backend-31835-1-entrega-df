@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Happy Card",
+    "price": 10,
+    "description": "Una cara pixelada",
+    "code": "010101",
+    "stock": 1,
+    "thumbnail": "http://localhost:8080/images/1660174383006.png",
+    "id": 1,
+    "timestamp": 1660174383009
+  }
+]
